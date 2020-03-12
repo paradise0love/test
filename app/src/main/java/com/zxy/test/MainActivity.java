@@ -11,7 +11,7 @@ import androidx.navigation.ui.NavigationUI;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 /**
- * @author zhangxueyi
+ * @author zxy
  */
 public class MainActivity extends AppCompatActivity {
 
