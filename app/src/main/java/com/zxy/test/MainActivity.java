@@ -10,6 +10,9 @@ import androidx.navigation.ui.NavigationUI;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
+/**
+ * @author zhangxueyi
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
